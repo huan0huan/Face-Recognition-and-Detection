@@ -5,6 +5,10 @@ Created on Fri May 24 15:00:47 2019
 @author: Administrator
 """
 
+'''
+Functions
+'''
+
 #import numpy as np
 #import tensorflow as tf
 import cv2
