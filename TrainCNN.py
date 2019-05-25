@@ -5,6 +5,10 @@ Created on Fri May 24 15:58:25 2019
 @author: Administrator
 """
 
+'''
+TrainCNN
+'''
+
 import numpy as np
 import tensorflow as tf
 #import cv2
