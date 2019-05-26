@@ -1,3 +1,7 @@
+'''
+set_other_faces
+'''
+
 import sys
 import os
 import cv2
