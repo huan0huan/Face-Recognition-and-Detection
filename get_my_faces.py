@@ -1,5 +1,5 @@
 '''
-get_my_faces
+get my faces
 '''
 
 
