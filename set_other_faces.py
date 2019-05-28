@@ -1,5 +1,5 @@
 '''
-set_other_faces
+set other faces
 '''
 
 import sys
