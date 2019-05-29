@@ -7,6 +7,7 @@ Created on Fri May 24 19:47:26 2019
 
 '''
 TestCNN
+Recognize user's face.
 '''
 
 import numpy as np
