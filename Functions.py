@@ -7,6 +7,7 @@ Created on Fri May 24 15:00:47 2019
 
 '''
 Functions
+These functions are used in TrainCNN.py.
 '''
 
 #import numpy as np
