@@ -175,3 +175,5 @@ for n in range(epoch): #多少个epoch
                 
 print('Accuary: ' + str(acc))
 
+
+
